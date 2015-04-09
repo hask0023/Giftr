@@ -47,6 +47,7 @@ p{
     background-repeat: no-repeat;
     background-position: center;
     display: block;
+   
     
    
     width: 40px;
@@ -59,6 +60,17 @@ p{
     text-align: center;
     width: 40px;
     height: 40px;
+}
+
+.btnCancel {
+float: left;
+    font-size: small;
+}
+
+.btnSave {
+/*    display: inline;*/
+    float: right;
+    font-size: small;
 }
 
 #peopleHeader {

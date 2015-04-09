@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M245.2,355.4"/>
+		
+			<ellipse transform="matrix(-0.866 0.5 -0.5 -0.866 809.7964 549.0393)" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" cx="331.3" cy="383" rx="35" ry="79"/>
+		
+			<rect x="255.9" y="302.8" transform="matrix(-0.866 0.5 -0.5 -0.866 715.2744 450.8746)" fill="#FFFFFF" width="82.7" height="36.9"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M203.7,276.6"/>
+		
+			<ellipse transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 389.538 765.3813)" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" cx="245.2" cy="357" rx="35" ry="79"/>
+		
+			<rect x="223.4" y="270.8" transform="matrix(-0.9659 -0.2588 0.2588 -0.9659 445.4987 637.1888)" fill="#FFFFFF" width="82.7" height="36.9"/>
+	</g>
+	<line fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="310.9" y1="315.5" x2="331.3" y2="281.1"/>
+	<line fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="327.7" y1="318.9" x2="343" y2="305.9"/>
+	<line fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="301.9" y1="308.3" x2="300.1" y2="288.4"/>
+	<g>
+		<path stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M200.7,512.8"/>
+		<rect x="208.6" y="434" transform="matrix(0.9659 0.2588 -0.2588 0.9659 128.4988 -39.3355)" width="10" height="68.7"/>
+		<rect x="177.2" y="501.4" transform="matrix(0.9659 0.2588 -0.2588 0.9659 137.7394 -35.5079)" width="53" height="8"/>
+	</g>
+	<g>
+		<path stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M412.4,522.6"/>
+		<rect x="385.1" y="447.7" transform="matrix(0.866 -0.5 0.5 0.866 -188.7616 259.6557)" width="10" height="68.7"/>
+		<rect x="382.8" y="511.3" transform="matrix(0.866 -0.5 0.5 0.866 -202.7854 273.6796)" width="53" height="8"/>
+	</g>
+</g>
+</svg>

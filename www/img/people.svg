@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g>
+	<g>
+		<ellipse cx="252.2" cy="418.6" rx="40.7" ry="25.4"/>
+		<polygon fill="#FFFFFF" points="231,393.2 247.1,407.5 252.2,412 273.3,393.2 		"/>
+	</g>
+	<ellipse cx="252.2" cy="370.8" rx="21.3" ry="25.7"/>
+	<g>
+		<ellipse cx="359.2" cy="418.6" rx="40.7" ry="25.4"/>
+		<polygon fill="#FFFFFF" points="338,393.2 354.1,407.5 359.2,412 380.3,393.2 		"/>
+	</g>
+	<ellipse cx="359.2" cy="370.8" rx="21.3" ry="25.7"/>
+	<ellipse fill="#FFFFFF" cx="273.5" cy="428.2" rx="25.7" ry="36.3"/>
+	<ellipse fill="#FFFFFF" cx="338" cy="428.2" rx="25.7" ry="36.3"/>
+	<ellipse cx="305.7" cy="358.2" rx="24.7" ry="29.7"/>
+	<path d="M326.9,394.6l-21.3,21.9l-21.3-21.9c-19,5.1-32.2,16.9-32.2,30.6c0,18.4,24,33.3,53.5,33.3s53.5-14.9,53.5-33.3
+		C359.2,411.5,345.9,399.7,326.9,394.6z"/>
+</g>
+</svg>

@@ -124,6 +124,7 @@ var app= {
         var saveGiftPersonBtnHammer = new Hammer(saveGiftPersonBtn);
         saveGiftPersonBtnHammer.on("tap", app.tapGiftPersonBtn);
        // alert ("hello"); 
+        
         //add new gift for occasion
          var saveGiftOccasionBtn = document.getElementById("saveGiftOccasion");
         var saveGiftOccasionBtnHammer = new Hammer(saveGiftOccasionBtn);
@@ -211,11 +212,7 @@ doTrans: function(trans){
                 createOccasionListItem.appendChild(occasionText);
                 createOccasionListItem.setAttribute("data-ref", results.rows.item(i).occ_id);
                 document.getElementById("occasionList").appendChild(createOccasionListItem);
-                
-//                var createOccasionDropdown = document.createElement("option");
-//                var occasionDropdown = document.createTextNode(results.rows.item(i).occ_name);
-//                createOccasionDropdown.appendChild(occasionDropdown);
-//                document.getElementById("list-per-occ").appendChild(createOccasionDropdown);
+
             }
         }
         
@@ -628,9 +625,9 @@ tapGiftOccasionBtn: function(){
         var title = document.getElementById("nameOfOccasion");
         var occasionID = title.getAttribute("data-ref"); // this WORKS
      
-        var personDropDown  = document.getElementById("list-per-occasion");
-        var personText = document.getElementById("list-per-occasion").value;
-        var personID = occasionDropDown.options[occasionDropDown.selectedIndex].getAttribute("data-ref");
+        var personDropDown  = document.getElementById("list-per-occ");
+        var personText = document.getElementById("list-per-occ").value;
+        var personID = personDropDown.options[personDropDown.selectedIndex].getAttribute("data-ref");
 
   
         var db = window.openDatabase("myDb", "1.0", "Gifts Database", 1024000);
